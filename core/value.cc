@@ -9,5 +9,5 @@ struct Value {
 struct Value2::Value {
   Value data;
   num cap;
-  Value()::cap(10000)
+  Value2()::cap(10000)
 };
