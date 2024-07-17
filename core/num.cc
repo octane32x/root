@@ -3,5 +3,5 @@
 // A number
 
 struct Num {
-  llu data; //! vec<Block> data
+  llu top,bot; //! vec<Block> data
 };
